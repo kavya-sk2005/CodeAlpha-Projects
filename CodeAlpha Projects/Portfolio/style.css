@@ -1,0 +1,95 @@
+body {
+    font-family:'Times New Roman';
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color:black;
+    padding: 20px;
+    text-align: center;
+    color:#fff;
+  }
+  
+  h1, h2, h3 {
+    margin: 0;
+    padding: 10px;
+  }
+  
+  #about {
+    padding: 20px;
+    text-align: center;
+    background-color:burlywood;
+    font-weight: 900;
+  }
+  
+  #about img {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  #skills {
+    padding: 20px;
+    text-align: center;
+    background-color:wheat;
+    font-weight: 900;
+    
+  }
+  
+  #skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #skills li {
+    margin-bottom: 5px;
+  }
+
+  #internship{
+    text-align: center;
+    
+  }
+
+  #intern{
+    width:700px;
+    margin-left: 400px;
+  }
+  
+  #resume {
+    padding: 20px;
+    text-align: center;
+    background-color:burlywood;
+  }
+
+  #resume a{
+    text-decoration: none;
+    font-size: large;
+    font-weight:900;
+    color:#fff
+  }
+  
+  button{
+    background-color:red;
+    border-radius: 30px;
+  }
+
+  button:hover{
+    background-color:green;
+  }
+  #contact {
+    padding: 20px;
+    text-align: center;
+    background-color:beige
+  }
+  #contact a{
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color:black;
+    padding: 10px;
+    text-align: center;
+    color:#fff;
+  }
